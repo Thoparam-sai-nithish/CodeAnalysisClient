@@ -35,4 +35,4 @@ jobs:
           exit 1
         else
           echo "API Response is true. Job succeeded."
-        fi
+        fi  
